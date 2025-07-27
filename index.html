@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Iris Classifier</title></head>
+  <body>
+    <h1>Iris Flower Species Prediction</h1>
+    {% if species %}
+      <h2>Predicted species: {{ species }}</h2>
+    {% endif %}
+    <form method="post">
+      Sepal length: <input name="sepal_length" type="number" step="any" required><br>
+      Sepal width:  <input name="sepal_width"  type="number" step="any" required><br>
+      Petal length: <input name="petal_length" type="number" step="any" required><br>
+      Petal width:  <input name="petal_width"  type="number" step="any" required><br>
+      <button type="submit">Predict</button>
+    </form>
+  </body>
+</html>
