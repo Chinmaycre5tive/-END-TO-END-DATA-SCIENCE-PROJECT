@@ -21,3 +21,5 @@ END‑TO‑END DATA SCIENCE PROJECT: A COMPLETE PIPELINE FROM PROBLEM DEFINITION
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c8bf270e-d275-4017-a5db-db6760ff9b0c" />
 
 <img width="1913" height="1031" alt="Image" src="https://github.com/user-attachments/assets/f6ce8e23-f42a-4c24-ab11-56f4da9f780b" />
+
+<img width="1908" height="1026" alt="Image" src="https://github.com/user-attachments/assets/06f83faa-fdad-43d6-b897-35a462759d5e" />
